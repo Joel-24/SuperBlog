@@ -3,7 +3,7 @@ Hola me llamo Joel Oscco y tengo que decirles algo:
 Tengo 26 años y soy de Perú. Naturalmente me interesa
 la computación y quiero ser un Data Science.
 
-Hoy hablaremos de mi vida.
+Hoy hablaremos de mi vida y obra maestra.
 
 Comienza con un trabajo realizado en una empresa de 
 Metalurgia a los 17 años.
